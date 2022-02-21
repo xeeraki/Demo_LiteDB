@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "faf9dab9-392c-4567-9a79-b82b1d9d8ba2": {
+      "ProjectGuid": "faf9dab9-392c-4567-9a79-b82b1d9d8ba2",
+      "DisplayName": "DemoLiteDB",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

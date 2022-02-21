@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "/izhivDi/JJeIIQODANU1MfRQ3AHb4RcLlwfHIEaw6amBKNT2fdxA0Co4fyVgc1ahgcJLcz6KpmDLgIQANA30A==",
+  "success": true,
+  "projectFilePath": "C:\\BACKED\\REPO\\Demo_LiteDB\\DemoLiteDB\\DemoLiteDB\\DemoLiteDB.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adam\\.nuget\\packages\\litedb\\5.0.11\\litedb.5.0.11.nupkg.sha512",
+    "C:\\Users\\adam\\.nuget\\packages\\litedb.async\\0.0.11\\litedb.async.0.0.11.nupkg.sha512",
+    "C:\\Users\\adam\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\adam\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\adam\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512",
+    "C:\\Users\\adam\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\adam\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\adam\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\adam\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
